@@ -21,11 +21,11 @@ Feature: To test inclusion of a smartSurvey
       
     Given that condition is 
       | id                | conditionType | conditionableType | 
-      | 1                 | equals to     |         1         |      
+      | 1                 | equals to     |         1         |    
       
     Given that section is 
       | id                | title   | 
-      | 1                 | cargo         |     
+      | 1                 | cargo   |     
       
     Given that question is 
       | id                | description                  | 
