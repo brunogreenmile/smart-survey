@@ -22,7 +22,7 @@ e) Ao selecionar a opção "Reports" na listagem de SmartSurvey, nada aconteceu.
 
 f) ao tentar excluir um smart survey fechado (released) é exibida a mensagem "Can not edit a released Survey". Ficaria mais compreensível "Can not delete a released Survey".
 
-Sobre o código Java
+Sobre o código Java -
 Como não tive acesso ao fonte original do projeto, criei Stubs (quase uma engenharia reversa) de um modelo que representasse o sistema programaticamente, para poder executar os casos de teste de forma automatizada. Portanto essa simulação não reproduzirá necessariamente o comportamento do projeto em produção, buscando aproximar-se.
 
 
