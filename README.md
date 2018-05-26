@@ -18,6 +18,8 @@ c) Questions do tipo Entity exibe a mensagem "No Permission".
 
 d) Questions com resposta do tipo LongText exibem o texto "undefined" do componente de texto.
 
+e) Ao selecionar a opção "Reports" na listagem de SmartSurvey, nada aconteceu. Assumi que deveria ocorrer uma exportação para excel ou impressão.
+
 
 
 
