@@ -20,6 +20,9 @@ d) Questions com resposta do tipo LongText exibem o texto "undefined" do compone
 
 e) Ao selecionar a opção "Reports" na listagem de SmartSurvey, nada aconteceu. Assumi que deveria ocorrer uma exportação para excel ou impressão.
 
+Sobre o código Java
+Como não tive acesso ao fonte original do projeto, criei Stubs (quase uma engenharia reversa) de um modelo que representasse o sistema programaticamente, para poder executar os casos de teste de forma automatizada. Portanto essa simulação não reproduzirá necessariamente o comportamento do projeto em produção, buscando aproximar-se.
+
 
 
 
