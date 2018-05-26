@@ -1,8 +1,9 @@
 # smart-survey
 Desafio proposto
 A especificação dos casos testes estão na raiz do projeto, na planilha "test_cases.xlsx". Ver abas "Inclusion" e "List".
+
 Versão do sistema operacional em que os testes foram executados: Windows 7 Professional 32 bits.
-Browser: Google Chrome Versão 66.0.3359.181 (Versão oficial) 32 bits
+Browser: Google Chrome Versão 66.0.3359.181 (Versão oficial) 32 bits.
 
 1) É preciso importar o repositório git do projeto (https://github.com/brunogreenmile/smart-survey/), fazendo checkout em uma instalação Eclipse local.
 2) Alt + f5 no arquivo pom do maven para atualização das dependências.
